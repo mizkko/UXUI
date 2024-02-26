@@ -622,11 +622,11 @@
     font-size: 14px;
     letter-spacing: 0;
     line-height: 21px;
-    margin-top : 0px;
 }
 
 .desktop .frame-4 {
     margin-top: -13px;
+    margin-bottom: 0px;
     display: inline-flex;
     align-items: center;
     gap: 13px;
