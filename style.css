@@ -614,7 +614,7 @@
 .desktop .text-wrapper-16 {
     position: absolute;
     width: 333px;
-    top: 23px;
+    top: 27px;
     left: 0;
     font-family: "Roboto-Regular", Helvetica;
     font-weight: 400;
@@ -622,6 +622,7 @@
     font-size: 14px;
     letter-spacing: 0;
     line-height: 21px;
+    margin-top : 0px;
 }
 
 .desktop .frame-4 {
