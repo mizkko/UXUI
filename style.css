@@ -625,6 +625,7 @@
 }
 
 .desktop .frame-4 {
+    margin-top: -13px;
     display: inline-flex;
     align-items: center;
     gap: 13px;
@@ -644,7 +645,6 @@
 .desktop .available {
     position: relative;
     width: fit-content;
-    margin-top: -1px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 400;
     color: #000000;
